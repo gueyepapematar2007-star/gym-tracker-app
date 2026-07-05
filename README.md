@@ -5,170 +5,104 @@ Aplicación móvil gratuita para gestionar tu rutina de entrenamiento en el gimn
 ## 🎯 Características
 
 ✅ **Plan de 3 días/semana** optimizado para futbolistas  
-✅ **Ejercicios con videos tutoriales** integrados  
+✅ **Ejercicios con detalles completos** - Reps, series, tiempo, posición  
 ✅ **Progreso persistente** - Los ejercicios se quedan hasta marcar como completado  
 ✅ **Detalles completos** - Reps, series, tiempo, posición de cada ejercicio  
 ✅ **Almacenamiento local** - Sin necesidad de internet  
-✅ **100% Gratis** - Descargable en Android e iOS  
+✅ **100% Gratis** - Descargable en Android  
 
-## 📱 Instalación
+---
 
-### Requisitos:
-- Node.js (v14+)
-- npm o yarn
-- Android Studio (para Android) o Xcode (para iOS)
-- React Native CLI
+## 📱 DESCARGAR LA APP (LA FORMA MÁS FÁCIL)
 
-### Pasos:
+### ⬇️ [DESCARGAR APK AQUÍ](https://github.com/gueyepapematar2007-star/gym-tracker-app/releases)
 
-```bash
-# 1. Clonar el repositorio
-git clone https://github.com/gueyepapematar2007-star/gym-tracker-app.git
-cd gym-tracker-app
+**Solo 3 pasos:**
+1. Click en el enlace de arriba
+2. Descarga `GymTracker-v1.0.0.apk`
+3. Abre en tu móvil e instala
 
-# 2. Instalar dependencias
-npm install
+**¡Listo! Ya tienes la app en tu móvil 🚀**
 
-# 3. Para Android
-npx react-native run-android
+---
 
-# 4. Para iOS (Mac)
-npx react-native run-ios
-```
+## 🏋️ Plan de Entrenamiento
 
-## 🏋️ Plan de Entrenamiento - 3 DÍAS/SEMANA
+### Día 1: PUSH (Pecho, Hombros, Tríceps) 🔵
+- Flexiones de pecho: 4x8-10 reps
+- Press hombro: 4x8-10 reps
+- Fondos en paralelas: 3x6-8 reps
+- Extensiones de tríceps: 3x10-12 reps
 
-### DÍA 1: PUSH (Pecho, Hombros, Tríceps) 🔵
-**Duración:** ~50 minutos | **Objetivo:** Fuerza + Masa muscular
+### Día 2: PULL (Espalda, Bíceps) 🟢
+- Dominadas: 4x6-8 reps
+- Remo en T: 4x8-10 reps
+- Curl de bíceps: 3x10-12 reps
+- Face pulls: 3x12-15 reps
 
-1. **Flexiones de Pecho**
-   - 4 series x 8-10 reps
-   - Tiempo: 60 segundos descanso
-   - Posición: Manos al ancho de hombros
-   - Video: Ver tutorial completo
+### Día 3: LEGS (Piernas, Glúteos, Velocidad) 🟡
+- Sentadillas: 4x8-10 reps
+- Peso muerto: 4x6-8 reps
+- Prensa de piernas: 3x10-12 reps
+- Saltos explosivos: 3x5 reps (velocidad)
+- Sprint en el lugar: 3x20 segundos
 
-2. **Press de Hombro (Mancuernas)**
-   - 4 series x 8-10 reps
-   - Tiempo: 60 segundos descanso
-   - Posición: Sentado, espalda recta
-   - Video: Ver tutorial completo
+---
 
-3. **Fondos en Paralelas**
-   - 3 series x 6-8 reps
-   - Tiempo: 90 segundos descanso
-   - Posición: Cuerpo recto, codos a 90°
-   - Video: Ver tutorial completo
+## 📋 Cómo Usar
 
-4. **Extensiones de Tríceps**
-   - 3 series x 10-12 reps
-   - Tiempo: 45 segundos descanso
-   - Posición: De pie, brazo arriba
-   - Video: Ver tutorial completo
+1. **Abre la app** - Verás tu pantalla de inicio
+2. **Selecciona tu entrenamiento** - El del día o manual
+3. **Expande cada ejercicio** - Ver detalles y consejos
+4. **Marca series** - Click en los números de series
+5. **Cuando termines** - Presiona "MARCAR DÍA COMPLETADO ✅"
+6. **El progreso se guarda automáticamente**
 
-### DÍA 2: PULL (Espalda, Bíceps) 🟢
-**Duración:** ~50 minutos | **Objetivo:** Volumen + Espalda fuerte
+---
 
-1. **Dominadas**
-   - 4 series x 6-8 reps
-   - Tiempo: 90 segundos descanso
-   - Posición: Agarre ancho, cuerpo recto
-   - Video: Ver tutorial completo
+## 💾 Almacenamiento
 
-2. **Remo en T (Mancuernas)**
-   - 4 series x 8-10 reps
-   - Tiempo: 60 segundos descanso
-   - Posición: Inclinado, espalda recta
-   - Video: Ver tutorial completo
+✅ Todo se guarda **localmente en tu móvil**
+✅ Sin necesidad de internet
+✅ Sin perder privacidad
+✅ Sincronización automática
 
-3. **Curl de Bíceps**
-   - 3 series x 10-12 reps
-   - Tiempo: 45 segundos descanso
-   - Posición: De pie, codos fijos
-   - Video: Ver tutorial completo
+---
 
-4. **Face Pulls (Polea)**
-   - 3 series x 12-15 reps
-   - Tiempo: 45 segundos descanso
-   - Posición: De pie, brazos a la altura de la cara
-   - Video: Ver tutorial completo
+## 📊 Características de la App
 
-### DÍA 3: LEGS + VELOCIDAD (Piernas, Glúteos, Explosividad) 🟡
-**Duración:** ~60 minutos | **Objetivo:** Fuerza piernas + velocidad + salto
+✅ **Progreso visual** - Barra de progreso en tiempo real
+✅ **Estadísticas** - Entrenamientos completados, racha
+✅ **Detalles de ejercicios** - Posición, consejos, descanso
+✅ **Interfaz intuitiva** - Fácil de usar
+✅ **Rápida** - Optimizada para Android
 
-1. **Sentadillas Completas**
-   - 4 series x 8-10 reps
-   - Tiempo: 90 segundos descanso
-   - Posición: Pies al ancho de hombros, espalda recta
-   - Video: Ver tutorial completo
+---
 
-2. **Peso Muerto**
-   - 4 series x 6-8 reps
-   - Tiempo: 120 segundos descanso
-   - Posición: Espalda recta, peso en talones
-   - Video: Ver tutorial completo
+## 🎬 Cada Ejercicio Incluye
 
-3. **Prensa de Piernas**
-   - 3 series x 10-12 reps
-   - Tiempo: 90 segundos descanso
-   - Posición: Pies al ancho de hombros
-   - Video: Ver tutorial completo
+📌 **Número de series y reps**
+📌 **Tiempo de descanso**
+📌 **Posición correcta**
+📌 **Consejos de forma**
+📌 **Tracker de progreso**
 
-4. **Saltos Explosivos (Box Jump o Suelo)**
-   - 3 series x 5 reps máxima altura
-   - Tiempo: 120 segundos descanso
-   - Posición: Pies separados, brazos atrás
-   - Video: Ver tutorial completo
+---
 
-5. **Sprint en el Lugar (20 segundos)**
-   - 3 series x 20 segundos
-   - Tiempo: 40 segundos descanso
-   - Beneficio: Velocidad + Explosividad
+## 📞 Soporte & Reportes
 
-## 📋 Estructura de la App
+Para bugs o sugerencias: [Crear Issue](https://github.com/gueyepapematar2007-star/gym-tracker-app/issues)
 
-```
-gym-tracker-app/
-├── src/
-│   ├── components/
-│   │   ├── WorkoutScreen.js
-│   │   ├── ExerciseCard.js
-│   │   ├── ProgressTracker.js
-│   │   └── VideoPlayer.js
-│   ├── data/
-│   │   ├── workoutPlans.js
-│   │   ├── exercises.js
-│   │   └── videoLibrary.js
-│   ├── utils/
-│   │   ├── storage.js
-│   │   ├── notifications.js
-│   │   └── helpers.js
-│   └── App.js
-├── package.json
-└── app.json
-```
+---
 
-## 💾 Funcionalidades
+## 🔗 Más Información
 
-✅ **Marca ejercicios completados** - Se quedan en el listado hasta que marques el día como OK  
-✅ **Videos integrados** - Cómo hacer cada ejercicio correctamente  
-✅ **Temporizador** - Para descansos entre series  
-✅ **Almacenamiento local** - Sin perder datos  
-✅ **Notificaciones** - Recordatorio de entrenamientos  
-✅ **Progreso visual** - Estadísticas de tu avance  
-
-## 🚀 Cómo usar
-
-1. Descarga la app
-2. Abre el DÍA 1 (o el día que corresponda)
-3. Haz cada ejercicio como indica
-4. Marca cada serie como completada ✅
-5. Cuando termines el día, pulsa "DÍA COMPLETADO"
-6. Los ejercicios del día siguiente aparecerán automáticamente
-
-## 📞 Soporte
-
-Para reportar bugs o sugerencias: gueyepapematar2007-star
+- [📥 Descargar APK](https://github.com/gueyepapematar2007-star/gym-tracker-app/releases)
+- [📖 Guía de Instalación](INSTALLATION.md)
+- [🛠️ Guía Técnica](BUILD_APK_GUIDE.md)
 
 ---
 
 **Hecho con ❤️ para futbolistas que quieren ganar masa muscular sin perder velocidad**
+
+**Descarga ahora y empieza tu transformación 💪**
